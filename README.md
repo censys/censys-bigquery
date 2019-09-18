@@ -15,10 +15,7 @@ Be sure to set the GOOGLE_APPLICATION_CREDENTIALS environmental variable.
 
 
 ##### Installation:
-```
-pip install censys_bigquery_cli
-```
-Or
+
 ```
 pip install git+https://github.com/censys/bigquery-cli
 ```
