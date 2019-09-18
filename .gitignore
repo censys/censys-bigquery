@@ -1,0 +1,13 @@
+.idea/
+build/
+.env/
+
+*.egg-info/
+censys_command_line.egg-info/
+.venv/
+.venv2/
+__pycache__/
+.DS_Store
+*.pyc
+*.json
+*.csv
